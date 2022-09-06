@@ -24,14 +24,8 @@ https://www.coolapk.com/feed/38579891?shareKey=NGI3ZGZlZTM4MDBjNjMwMzdlM2M~&shar
 
 风向：{{wind_dir.DATA}} 
 
-今天是我们恋爱的第{{love_day.DATA}}天 
+今天是你北漂的第{{love_day.DATA}}天 
 
-{{birthday1.DATA}} 
-{{birthday2.DATA}}
-
-
-{{note_en.DATA}} 
-{{note_ch.DATA}}
 
 
 天气key生成教程
